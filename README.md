@@ -61,7 +61,7 @@
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 - [x] Add User
-- [x] Add issue and push itu to log
+- [x] Add issue and push it into user's log
 
 This application was created as a submission to a [FreeCodeCamp](https://www.freecodecamp.org) project. The [challenge](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker) was to build an application to complete the given user stories.
 
