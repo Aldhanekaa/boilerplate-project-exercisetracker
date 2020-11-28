@@ -51,7 +51,9 @@
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [ExpressJs](https://expressjs.com/)
-- [Sass | Scss](https://sass-lang.com/)
+- [mongodb](https://www.npmjs.com/package/mongodb)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
+- [Repl.it](https://repl.it/)
 
 
 ## Features
